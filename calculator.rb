@@ -17,10 +17,8 @@ def difference(first_number,second_number)
   
   def product(first_number,second_number)
       product=0 
-      product=first_number*second_number
+    end product=first_number*second_number
       return product
-      
-    end
     
   def quotient(first_number,second_number)
        quotient=0
