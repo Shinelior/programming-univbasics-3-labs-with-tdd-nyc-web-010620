@@ -33,7 +33,8 @@ def difference(first_number,second_number)
    end
        
        
-      
+first_number=25
+  second_number=30      
     
   
   
