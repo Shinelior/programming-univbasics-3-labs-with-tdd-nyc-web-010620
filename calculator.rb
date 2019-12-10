@@ -2,7 +2,7 @@
 def calculator(first_number,second_number)
   
   def sum (first_number,second_number)
-  sum=0  
+   
   sum = first_number+second_number
   return sum
   
@@ -34,7 +34,8 @@ def difference(first_number,second_number)
        
        
 first_number=25
-  second_number=30      
+  second_number=30 
+  
 calculator(first_number,second_number)    
   
   
