@@ -1,19 +1,7 @@
 # Add your variables here
- def calculator(first_number,second_number)
-  
-  def sum (first_number,second_number)
-   
  
-  return sum
-  
-end
 
-def difference(first_number,second_number)
-   
-   
-    return difference
-    
-  end  
+
   
   def product(first_number,second_number)
       
