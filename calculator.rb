@@ -10,7 +10,7 @@ end
 
 def difference(first_number,second_number)
     difference=0  
-    difference=first_number-second_number
+   
     return difference
     
   end  
