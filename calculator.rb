@@ -1,5 +1,5 @@
 # Add your variables here
-
+ def calculator(first_number,second_number)
   
   def sum (first_number,second_number)
    
@@ -29,7 +29,7 @@ def difference(first_number,second_number)
        
      end
      
-
+end
        
        
 first_number=25
@@ -39,6 +39,6 @@ second_number=30
    difference = first_number-second_number
    product = first_number*second_number 
    quotient = first_number/second_number
- end
+
 
   
