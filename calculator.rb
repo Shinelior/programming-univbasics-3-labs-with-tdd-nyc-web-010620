@@ -9,34 +9,36 @@
 end
 
 def difference(first_number,second_number)
-    difference=0  
+   
    
     return difference
     
   end  
   
   def product(first_number,second_number)
-      product=0 
-    end product=first_number*second_number
+      
+     product=first_number*second_number
       return product
+    end
     
   def quotient(first_number,second_number)
-       quotient=0
+      
        quotient=first_number/second_number
        
        return quotient
        
      end
      
-   end
+
        
        
 first_number=25
 second_number=30 
-  
+  def calculator(first_number,second_number)
    sum = first_number+second_number
    difference = first_number-second_number
    product = first_number*second_number 
    quotient = first_number/second_number
+ end
 
   
