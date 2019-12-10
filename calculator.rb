@@ -1,7 +1,6 @@
 # Add your variables here
 def calculator(first_number,second_number)
-  first_number=25
-  second_number=30
+  
   def sum (first_number,second_number)
   sum=0  
   sum = first_number+second_number
