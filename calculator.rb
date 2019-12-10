@@ -35,7 +35,7 @@ def difference(first_number,second_number)
        
 first_number=25
   second_number=30 
-  sum=0 
+  sum=
 calculator(first_number,second_number)    
   
   
